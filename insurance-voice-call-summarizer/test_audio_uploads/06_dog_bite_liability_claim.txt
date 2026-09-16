@@ -1,0 +1,9 @@
+[00:00] Agent: Thank you for calling Apex Mutual Homeowners Liability.
+[00:04] Customer: This call is recorded for quality and compliance.
+[00:09] Agent: My name is Elena.
+[00:13] Customer: Hi Elena, I am calling because my German Shepherd jumped the backyard fence and bit an Amazon delivery driver on the leg.
+[00:18] Agent: The driver had to go to urgent care for stitches.
+[00:22] Customer: I am sorry to hear about this incident.
+[00:27] Agent: Can you confirm your homeowners policy number HO-771249? Yes, policy HO-771249.
+[00:31] Customer: Does the policy cover the driver's medical bills? Under Section 2 Personal Liability and Medical Payments to Others, we cover accidental injuries on premises up to your policy limit.
+[00:36] Agent: A casualty claims adjuster will contact you within 24 hours to obtain the medical invoices.

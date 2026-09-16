@@ -1,0 +1,119 @@
+[
+  {
+    "id": "CALL-AUTO-001",
+    "title": "Auto Collision FNOL - Rear-Ended at Signal",
+    "scenario_type": "Auto FNOL",
+    "caller_name": "Sarah Jenkins",
+    "policy_number": "PA-8392019",
+    "caller_phone": "+1 (555) 234-8910",
+    "agent_name": "Alex Miller (AGT-1029)",
+    "audio_filename": "sample_auto_fnol.wav",
+    "transcript": [
+      {"speaker": "Agent", "start_time": 0.0, "end_time": 5.2, "text": "Thank you for calling Apex Mutual Insurance. My name is Alex. Please be advised that this call is recorded for quality and training purposes. How can I assist you today?", "sentiment": "Positive"},
+      {"speaker": "Customer", "start_time": 5.8, "end_time": 12.4, "text": "Hi Alex, I was just involved in a car accident about thirty minutes ago, and I need to file a claim right away.", "sentiment": "Negative"},
+      {"speaker": "Agent", "start_time": 13.0, "end_time": 18.5, "text": "Oh, I am so sorry to hear that! First and foremost, are you and everyone else involved safe and uninjured?", "sentiment": "Positive"},
+      {"speaker": "Customer", "start_time": 19.1, "end_time": 25.3, "text": "Yes, thank goodness. My neck is a little stiff, but no one needed an ambulance. I was just really shaken up.", "sentiment": "Neutral"},
+      {"speaker": "Agent", "start_time": 26.0, "end_time": 32.1, "text": "I completely understand, that must have been very stressful. Before we proceed, could you please verify your policy number and full address for security verification?", "sentiment": "Positive"},
+      {"speaker": "Customer", "start_time": 32.8, "end_time": 39.5, "text": "Sure, my policy number is PA-8392019, and my address is 742 Evergreen Terrace, Springfield.", "sentiment": "Positive"},
+      {"speaker": "Agent", "start_time": 40.2, "end_time": 47.9, "text": "Thank you, Sarah. That verifies your account. Please remember that submitting false or fraudulent information on an insurance claim is a crime subject to state fraud penalties. Can you walk me through what happened?", "sentiment": "Neutral"},
+      {"speaker": "Customer", "start_time": 48.6, "end_time": 62.0, "text": "I was stopped at a red light at the intersection of Elm Street and 4th Avenue. Out of nowhere, another vehicle slammed right into my rear bumper. The other driver said his foot slipped off the brake.", "sentiment": "Negative"},
+      {"speaker": "Agent", "start_time": 62.8, "end_time": 68.4, "text": "Got it. Did you happen to exchange information with the other driver, and did the police respond to file a report?", "sentiment": "Neutral"},
+      {"speaker": "Customer", "start_time": 69.1, "end_time": 78.5, "text": "Yes, the driver's name was Robert Davis. Officer Miller from Springfield PD arrived and gave us police report number PD-2026-8941.", "sentiment": "Positive"},
+      {"speaker": "Agent", "start_time": 79.2, "end_time": 86.0, "text": "Excellent that you got the police report. What visible damage did your vehicle sustain?", "sentiment": "Neutral"},
+      {"speaker": "Customer", "start_time": 86.7, "end_time": 95.8, "text": "My rear bumper is completely smashed in, the right tail light is shattered, and the trunk lid is dented and won't latch shut.", "sentiment": "Negative"},
+      {"speaker": "Agent", "start_time": 96.5, "end_time": 107.2, "text": "Understood. I have logged all of those damages. Your policy has a $500 collision deductible, but because the other driver admitted fault and was cited in the police report, we will seek subrogation to recover your deductible.", "sentiment": "Positive"},
+      {"speaker": "Customer", "start_time": 108.0, "end_time": 113.4, "text": "That's a huge relief. What happens next? Can I take it to a body shop?", "sentiment": "Positive"},
+      {"speaker": "Agent", "start_time": 114.1, "end_time": 126.0, "text": "I'm sending a digital link to your smartphone right now where you can upload scene photos. An adjuster will reach out to you within 24 business hours to inspect the vehicle and arrange a rental car.", "sentiment": "Positive"},
+      {"speaker": "Customer", "start_time": 126.8, "end_time": 131.5, "text": "Thank you so much Alex, you made this so easy and clear.", "sentiment": "Positive"},
+      {"speaker": "Agent", "start_time": 132.2, "end_time": 137.0, "text": "You are very welcome Sarah. Take care, and feel free to call us back with your claim number CLM-9921.", "sentiment": "Positive"}
+    ]
+  },
+  {
+    "id": "CALL-HOME-002",
+    "title": "Homeowners Water Loss - Burst Copper Pipe",
+    "scenario_type": "Homeowners FNOL",
+    "caller_name": "David Ramirez",
+    "policy_number": "HO-4419208",
+    "caller_phone": "+1 (555) 839-1144",
+    "agent_name": "Jessica Taylor (AGT-3104)",
+    "audio_filename": "sample_homeowners_water.wav",
+    "transcript": [
+      {"speaker": "Agent", "start_time": 0.0, "end_time": 5.0, "text": "Apex Mutual Homeowners Claims, Jessica speaking. This call may be monitored or recorded for quality assurance. How can I help?", "sentiment": "Positive"},
+      {"speaker": "Customer", "start_time": 5.6, "end_time": 14.8, "text": "Help! I came downstairs this morning and my entire finished basement is flooded with two inches of standing water! It is ruining everything!", "sentiment": "Negative"},
+      {"speaker": "Agent", "start_time": 15.5, "end_time": 22.0, "text": "Take a deep breath David, I am so sorry you are dealing with this. Have you been able to shut off the main water valve to stop further flooding?", "sentiment": "Positive"},
+      {"speaker": "Customer", "start_time": 22.7, "end_time": 29.5, "text": "Yes, I turned off the main shutoff about 10 minutes ago, but water is all over my hardwood furniture, carpet, and drywall.", "sentiment": "Negative"},
+      {"speaker": "Agent", "start_time": 30.2, "end_time": 36.4, "text": "You did the right thing by shutting the valve. Can you confirm your date of birth and policy number HO-4419208?", "sentiment": "Neutral"},
+      {"speaker": "Customer", "start_time": 37.0, "end_time": 41.2, "text": "Yes, November 14th, 1984, policy HO-4419208.", "sentiment": "Positive"},
+      {"speaker": "Agent", "start_time": 41.9, "end_time": 50.5, "text": "Identity confirmed. Please note that false statements on claims are subject to insurance fraud penalties. What caused the water discharge?", "sentiment": "Neutral"},
+      {"speaker": "Customer", "start_time": 51.2, "end_time": 58.6, "text": "A copper water supply pipe behind the laundry room wall burst suddenly. Water was shooting everywhere until I cut the main.", "sentiment": "Negative"},
+      {"speaker": "Agent", "start_time": 59.4, "end_time": 71.0, "text": "Understood. Sudden and accidental discharge of water from plumbing is a covered peril under your HO-3 policy. Your deductible is $1,000. I am dispatching a certified water extraction contractor to your house within 2 hours.", "sentiment": "Positive"},
+      {"speaker": "Customer", "start_time": 71.8, "end_time": 77.2, "text": "Within two hours? Wow, thank goodness. What about my ruined furniture and carpet?", "sentiment": "Positive"},
+      {"speaker": "Agent", "start_time": 78.0, "end_time": 88.5, "text": "Take photos before anything is discarded. An adjuster will contact you within 24 hours to inventory the damaged contents and evaluate drywall replacement.", "sentiment": "Positive"},
+      {"speaker": "Customer", "start_time": 89.2, "end_time": 93.0, "text": "Thank you Jessica, I was panicking earlier but you really calmed me down.", "sentiment": "Positive"}
+    ]
+  },
+  {
+    "id": "CALL-SUSP-003",
+    "title": "Suspicious Auto Claim - Fraud & SIU Red Flags",
+    "scenario_type": "Suspicious Claim",
+    "caller_name": "Marcus Vance",
+    "policy_number": "PA-9912044",
+    "caller_phone": "+1 (555) 773-0091",
+    "agent_name": "Brian Cole (AGT-2041)",
+    "audio_filename": "sample_suspicious_crash.wav",
+    "transcript": [
+      {"speaker": "Agent", "start_time": 0.0, "end_time": 5.1, "text": "Apex Mutual Claims Department, Brian speaking. This call is being recorded for quality and compliance. How may I assist you?", "sentiment": "Positive"},
+      {"speaker": "Customer", "start_time": 5.8, "end_time": 14.5, "text": "Yeah, I wrecked my car last night. I need a direct cash payout or send me a check today without inspection because I need cash right now.", "sentiment": "Negative"},
+      {"speaker": "Agent", "start_time": 15.2, "end_time": 21.0, "text": "I see. To open the file, I need to verify your full name, policy number, and the incident location.", "sentiment": "Neutral"},
+      {"speaker": "Customer", "start_time": 21.7, "end_time": 29.8, "text": "Marcus Vance, policy PA-9912044. It happened out on Route 9 around 11 PM... actually wait, it was 2 AM this morning.", "sentiment": "Negative"},
+      {"speaker": "Agent", "start_time": 30.5, "end_time": 35.8, "text": "Okay, and who was operating the vehicle at the time the crash occurred?", "sentiment": "Neutral"},
+      {"speaker": "Customer", "start_time": 36.5, "end_time": 45.2, "text": "My cousin was driving... no wait, I changed my mind on that story, actually I was driving alone. I wasn't really sure when you first asked.", "sentiment": "Negative"},
+      {"speaker": "Agent", "start_time": 46.0, "end_time": 52.3, "text": "I see. Were the police called to the scene, and was a police report filed?", "sentiment": "Neutral"},
+      {"speaker": "Customer", "start_time": 53.0, "end_time": 61.4, "text": "No, we avoided calling cops. Didn't call the police at all, wanted to settle between us. Can we just skip the inspection and wire the money?", "sentiment": "Negative"},
+      {"speaker": "Agent", "start_time": 62.1, "end_time": 71.5, "text": "All collision claims require physical vehicle appraisal and signed statements under state fraud statutes. An adjuster will reach out within 2 business days.", "sentiment": "Neutral"},
+      {"speaker": "Customer", "start_time": 72.2, "end_time": 79.0, "text": "That's ridiculous! If you don't wire the money today I'm taking you to court and having my lawyer sue you!", "sentiment": "Negative"}
+    ]
+  },
+  {
+    "id": "CALL-DISP-004",
+    "title": "Billing Dispute & Escalation - Agent Non-Compliance",
+    "scenario_type": "Billing & Renewal Dispute",
+    "caller_name": "Linda Thompson",
+    "policy_number": "PA-5521903",
+    "caller_phone": "+1 (555) 912-4433",
+    "agent_name": "Gary Stevens (AGT-0812)",
+    "audio_filename": "sample_billing_dispute.wav",
+    "transcript": [
+      {"speaker": "Agent", "start_time": 0.0, "end_time": 3.2, "text": "Apex Insurance, Gary speaking. What do you need?", "sentiment": "Neutral"},
+      {"speaker": "Customer", "start_time": 3.8, "end_time": 12.0, "text": "I opened my renewal bill today and my premium doubled from $120 to $240 a month with zero notice! This is completely unacceptable!", "sentiment": "Negative"},
+      {"speaker": "Agent", "start_time": 12.7, "end_time": 17.5, "text": "Well ma'am, calm down. Rates go up everywhere. You should have known inflation impacts insurance.", "sentiment": "Negative"},
+      {"speaker": "Customer", "start_time": 18.2, "end_time": 27.5, "text": "Excuse me?! I have had a spotless driving record for fifteen years! You didn't even verify who I am, and you are being incredibly rude!", "sentiment": "Negative"},
+      {"speaker": "Agent", "start_time": 28.2, "end_time": 34.0, "text": "Give me your policy number then and I'll look at the screen.", "sentiment": "Negative"},
+      {"speaker": "Customer", "start_time": 34.7, "end_time": 46.0, "text": "It's PA-5521903. If you do not reverse this unexplained hike right now, I am canceling all my policies and switching to another insurance company immediately!", "sentiment": "Negative"},
+      {"speaker": "Agent", "start_time": 46.8, "end_time": 52.0, "text": "Go ahead and cancel, that's your decision. The state approved the rate filing so there is nothing I can do.", "sentiment": "Negative"},
+      {"speaker": "Customer", "start_time": 52.7, "end_time": 63.5, "text": "I am filing a formal bad faith complaint with the state insurance commissioner and contacting my attorney! Put your supervisor on this phone right now!", "sentiment": "Negative"}
+    ]
+  },
+  {
+    "id": "CALL-COMM-005",
+    "title": "Commercial Liability - Slip & Fall at Retail Store",
+    "scenario_type": "Commercial Liability",
+    "caller_name": "Arthur Pendelton",
+    "policy_number": "GL-7729104",
+    "caller_phone": "+1 (555) 601-3829",
+    "agent_name": "Amanda Cross (AGT-4401)",
+    "audio_filename": "sample_commercial_liability.wav",
+    "transcript": [
+      {"speaker": "Agent", "start_time": 0.0, "end_time": 5.4, "text": "Apex Commercial Risk Services, Amanda speaking. Please note this call is being recorded for quality and audit compliance. How can I help?", "sentiment": "Positive"},
+      {"speaker": "Customer", "start_time": 6.1, "end_time": 15.0, "text": "Hello Amanda, I am the store manager at Oakridge Hardware. A customer slipped and fell on a wet floor near aisle 4 earlier today.", "sentiment": "Negative"},
+      {"speaker": "Agent", "start_time": 15.8, "end_time": 22.4, "text": "Thank you for reporting this promptly Arthur. First, did the customer require medical attention or emergency EMS transport?", "sentiment": "Positive"},
+      {"speaker": "Customer", "start_time": 23.1, "end_time": 30.5, "text": "EMS came and transported her to St. Jude Hospital. She was complaining of severe pain in her left hip and wrist.", "sentiment": "Negative"},
+      {"speaker": "Agent", "start_time": 31.2, "end_time": 38.0, "text": "Understood. Can you verify your commercial policy number GL-7729104 and store location address?", "sentiment": "Neutral"},
+      {"speaker": "Customer", "start_time": 38.7, "end_time": 44.5, "text": "Yes, policy GL-7729104, store location 1200 Commerce Blvd, Suite 100.", "sentiment": "Positive"},
+      {"speaker": "Agent", "start_time": 45.2, "end_time": 54.0, "text": "Verified. Were yellow caution wet floor signs deployed prior to the incident, and do you have store security camera video preserved?", "sentiment": "Neutral"},
+      {"speaker": "Customer", "start_time": 54.8, "end_time": 63.2, "text": "Yes, we have 4K surveillance footage of the entire aisle and the maintenance log showing cleaning twenty minutes prior. I saved the video file.", "sentiment": "Positive"},
+      {"speaker": "Agent", "start_time": 64.0, "end_time": 75.0, "text": "Excellent. Our Senior Commercial Liability adjuster will reach out within 4 business hours to collect the video and initiate contact with the claimant's family.", "sentiment": "Positive"},
+      {"speaker": "Customer", "start_time": 75.8, "end_time": 80.0, "text": "Thank you Amanda, we appreciate the swift response.", "sentiment": "Positive"}
+    ]
+  }
+]

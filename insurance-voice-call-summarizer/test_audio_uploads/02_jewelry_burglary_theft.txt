@@ -1,0 +1,10 @@
+[00:00] Agent: Apex Mutual Home and Property, Mark speaking.
+[00:04] Customer: Please note this call is recorded for quality assurance.
+[00:09] Agent: Hi Mark, I came home from work and found my back sliding glass door shattered.
+[00:13] Customer: Burglars broke in and stole my wife's diamond engagement ring, electronics, and cash from our bedroom safe.
+[00:18] Agent: That is awful, I am so sorry you experienced this.
+[00:22] Customer: Did you contact the police? Yes, Officer Higgins arrived and took police report number TR-9941.
+[00:27] Agent: Can you confirm your date of birth and policy number HO-302194? Yes, March 12 1980, policy HO-302194.
+[00:31] Customer: Please remember false statements carry criminal fraud penalties.
+[00:36] Agent: Please make an itemized list with purchase receipts.
+[00:40] Customer: An adjuster will reach out by tomorrow morning.

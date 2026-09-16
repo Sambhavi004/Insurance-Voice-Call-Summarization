@@ -1,0 +1,10 @@
+[00:00] Agent: Thank you for calling Apex Mutual Auto Claims.
+[00:04] Customer: This call is recorded for training.
+[00:09] Agent: My name is Rachel.
+[00:13] Customer: Hi Rachel, I parked my car at the supermarket lot on Route 22, and when I came back out, someone had smashed my entire driver side door and drove away without leaving a note.
+[00:18] Agent: That is so frustrating, I am glad you were not inside the vehicle.
+[00:22] Customer: Let me verify your policy PA-442109 and vehicle VIN.
+[00:27] Agent: Policy is PA-442109, 2023 Honda Civic.
+[00:31] Customer: Did the store security have cameras? Yes, the store manager said their cameras captured a blue pickup truck backing into my door.
+[00:36] Agent: I filed police report PR-8831.
+[00:40] Customer: An adjuster will contact you within 24 hours to review the footage and arrange repairs.

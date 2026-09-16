@@ -1,0 +1,7 @@
+[00:00] Agent: Apex Claims, Brian speaking.
+[00:04] Customer: This call is recorded for quality.
+[00:09] Agent: What happened? Yeah, I wrecked my car on Interstate 95.
+[00:13] Customer: I need you to wire the money today without inspection.
+[00:18] Agent: I need cash immediately.
+[00:22] Customer: Were you using the vehicle for work or commercial delivery? No, absolutely not..
+[00:27] Agent: wait, well, I had the DoorDash app open and was delivering food, but do not put that on the record! Just pay the claim directly to my bank account today or I will hire an attorney to sue you in court.

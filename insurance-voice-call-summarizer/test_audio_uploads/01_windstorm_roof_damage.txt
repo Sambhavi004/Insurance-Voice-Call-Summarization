@@ -1,0 +1,9 @@
+[00:00] Agent: Thank you for calling Horizon Mutual Insurance.
+[00:04] Customer: This call is recorded for quality.
+[00:09] Agent: My name is Kevin.
+[00:13] Customer: Hi Kevin, a severe windstorm and hail ripped several shingles off my roof yesterday, and a heavy tree branch crashed through the gutter.
+[00:18] Agent: Water is beginning to seep into the attic.
+[00:22] Customer: I am so sorry to hear that.
+[00:27] Agent: First, are you and your family safe? Yes, we are safe.
+[00:31] Customer: Can you verify policy HO-882194 and your address? Yes, policy HO-882194, 542 Maple Ridge Road.
+[00:36] Agent: We will dispatch an emergency tarping crew within 4 hours to prevent further water damage, and an adjuster will inspect the roof within 48 hours.

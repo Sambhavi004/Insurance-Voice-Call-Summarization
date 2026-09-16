@@ -1,0 +1,6 @@
+[00:00] Agent: Apex Insurance, Dave speaking.
+[00:04] Customer: Hi Dave, my basement backed up with city sewer water.
+[00:09] Agent: Is this covered under my policy? Oh absolutely, don't worry about it at all, I guarantee this will be 100 percent covered in full with zero deductible, we will write you a check for everything no matter what.
+[00:13] Customer: You don't even need an adjuster inspection.
+[00:18] Agent: Just hire whoever you want.
+[00:22] Customer: Wow, really? Yes, 100 percent guaranteed.
